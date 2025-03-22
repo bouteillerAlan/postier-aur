@@ -1,5 +1,5 @@
 # Maintainer: Bouteiller a2n Alan <a2n.dev@pm.me>
-pkgname=postier
+pkgname=postier-bin
 pkgver=1.1.0
 pkgrel=1
 pkgdesc="Fully free & open-source API client"
