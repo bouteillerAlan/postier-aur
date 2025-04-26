@@ -1,7 +1,7 @@
 pkgbase = postier-bin
 	pkgdesc = Fully free & open-source API client
-	pkgver = 1.1.0
-	pkgrel = 1
+	pkgver = 1.4.0
+	pkgrel = 2
 	url = https://github.com/bouteillerAlan/postier
 	install = postier-bin.install
 	arch = x86_64
@@ -17,7 +17,7 @@ pkgbase = postier-bin
 	depends = webkit2gtk-4.1
 	options = !strip
 	options = !emptydirs
-	source_x86_64 = https://github.com/bouteillerAlan/postier/releases/download/v1.2.0-beta/Postier_1.1.0_amd64.deb
-	sha256sums_x86_64 = bf90904e07bcf3afd938093a55e5f9ca72120dcd85d111069419624914d67a19
+	source_x86_64 = https://github.com/bouteillerAlan/postier/releases/download/v1.4.0/Postier_1.4.0_amd64.deb
+	sha256sums_x86_64 = 594ae68530e42cab209f844fba97fd13436611d94ff2d7267659bf12a934eef5
 
 pkgname = postier-bin
